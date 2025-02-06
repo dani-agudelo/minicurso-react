@@ -11,7 +11,6 @@ root.render(
   </React.StrictMode>
 );
 
-
 console.log('.')
 console.log('.')
 console.log('.')
