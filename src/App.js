@@ -28,11 +28,12 @@ class App extends Component {
     return (
       <div className="App">
         <p>Primer componente con state</p>
-        <Contador contadorInicial= {100} />
+        <Contador contadorInicial={100} />
+        <Contador contadorInicial={50} />
+        <Contador contadorInicial={200} />
       </div>
     );
   }
 }
-
 
 export default App;
